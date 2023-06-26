@@ -6,7 +6,8 @@ The primary goal of this paper is to train the model on variable width (number o
   
 The produced model is additionally evaluated for usability and real-world practicality on a variety of IoT devices. By default, the model is created using a 8 switch network (i.e., 8 random widths between 0 and 1). It is also trained using a 4-switch network and comparison is being made. The model is tested on a Raspberry Pi 3B and a Node MCU model ESP8266 in this research report. Wearable gloves with an accelerometer sensor are tested. A website that measures a person's body temperature and heart rate is also created for ease of use.
 
-#Dataset links
+# Dataset links
+
 UCI HAR Dataset - https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
 WISDM Dataset   - https://www.cis.fordham.edu/wisdm/dataset.php
 Opportunity Dataset - https://archive.ics.uci.edu/dataset/226/opportunity+activity+recognition
