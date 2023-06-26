@@ -9,7 +9,11 @@ The produced model is additionally evaluated for usability and real-world practi
 # Dataset links
 
 UCI HAR Dataset - https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
+
 WISDM Dataset   - https://www.cis.fordham.edu/wisdm/dataset.php
+
 Opportunity Dataset - https://archive.ics.uci.edu/dataset/226/opportunity+activity+recognition
+
 Unimib SHAR Dataset - https://www.sal.disco.unimib.it/technologies/unimib-shar/
+
 PAMAP2 Dataset - https://archive.ics.uci.edu/dataset/231/pamap2+physical+activity+monitoring
