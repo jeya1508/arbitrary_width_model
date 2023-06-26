@@ -1,3 +1,5 @@
+# Project Description
+
 This is our final year project for the Human Activity Recognition(HAR) application.
 
 One of the vast areas of study in the field of deep learning is human activity recognition (HAR). It involves automatically detecting human activity from sensor data, such as that from magnetometers, accelerometers, and gyroscopes. Healthcare, sports, entertainment, security, smart homes, and automated systems have all seen extensive usage of HAR. It should be cost-effective and use little resources and computing power for real-time HAR applications.  
